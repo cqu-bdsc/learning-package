@@ -21,7 +21,7 @@ A learning package for research students of computer science.
 - LetPub: Information about SCI Journals [[Link]](http://www.letpub.com.cn/index.php?page=journalapp)
 
 ### Coding
-- Python Tutorial by Liaoxue Feng [[Chinese]](https://www.liaoxuefeng.com/wiki/1016959663602400)
+- Python Tutorial by Xuefeng Liao [[Chinese]](https://www.liaoxuefeng.com/wiki/1016959663602400)
 - Python Documentation [[English]](https://docs.python.org/3/) [[Chinese]](https://docs.python.org/zh-cn/3/)
 - Python for Beginners [[Chinese]](https://www.bilibili.com/video/BV1Fs411A7HZ)
 
