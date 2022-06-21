@@ -27,6 +27,8 @@ A learning package for research students of computer science.
 - dblp: Computer Science Bibliography [[Link]](https://dblp.org)
 - Conference Partner: Information about Academic Conferences [[Link]](https://www.myhuiban.com)
 - LetPub: Information about SCI Journals [[Link]](http://www.letpub.com.cn/index.php?page=journalapp)
+- Academic Accelerator: Wonderful Tool to Accelerate Your Scientific Research [[Link]](https://academic-accelerator.com)
+- Zotero: Personal Research Assistant [[Link]](https://www.zotero.org)
 
 ### Coding
 - Python Tutorial by Xuefeng Liao [[Chinese]](https://www.liaoxuefeng.com/wiki/1016959663602400)
